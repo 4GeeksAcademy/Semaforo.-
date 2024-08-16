@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    background-color: rgb(39, 38, 46);
+}
+
+.rojo {
+    box-shadow: -6px 3px 114px 37px rgba(237, 10, 10, 0.98);
+}
+
+.amarillo {
+    box-shadow: -6px 3px 114px 37px rgb(233, 237, 10);
+}
+
+.verde {
+    box-shadow: -6px 3px 114px 37px rgba(12, 247, 3, 0.98);
+}
+
+.morado {
+    box-shadow: -6px 3px 114px 37px rgba(131, 19, 196, 0.98);
+}
